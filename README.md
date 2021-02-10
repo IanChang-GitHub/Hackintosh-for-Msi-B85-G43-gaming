@@ -1,10 +1,10 @@
 # Hackintosh-Msi-B85-G43-gaming
 
-## 电脑配置
+## Computer Device
 
-| 规格     | 详细信息                                                     |
+| Devie     | Information                                                     |
 | -------- | ------------------------------------------------------------ |
-| 电脑型号 | 戴尔 Inspiron 7560 笔记本电脑                                |
+| CPU | Intel Xeon E3-1230V3                                |
 | 操作系统 | macOS Mojave 18E226/macOS High Sierra 10.13.6 17G2208        |
 | 处理器   | 英特尔 Core i7-7500U @ 2.70GHz 双核                          |
 | 内存     | 16 GB ( 金士顿 DDR4 2400MHz )                                |
