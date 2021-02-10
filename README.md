@@ -1,4 +1,5 @@
 # Hackintosh-Msi-B85-G43-gaming
+![GitHub release](https://img.shields.io/github/v/release/superng6/MSI-B360-Big-Sur-EFI?style=flat-square)
 
 ## Computer Device
 
