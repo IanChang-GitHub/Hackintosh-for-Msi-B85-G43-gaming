@@ -4,9 +4,9 @@
 
 | Devie     | Information                                                     |
 | -------- | ------------------------------------------------------------ |
-| CPU | Intel Xeon E3-1230V3                                |
-| 操作系统 | macOS Mojave 18E226/macOS High Sierra 10.13.6 17G2208        |
-| 处理器   | 英特尔 Core i7-7500U @ 2.70GHz 双核                          |
+| CPU | Intel Xeon E3-1230 V3 3.30GHz                                |
+| Motherboard | Msi B85-G43 Gaming       |
+| Ram   |  Kingston DDR3 1600Hz 4g* 4                       |
 | 内存     | 16 GB ( 金士顿 DDR4 2400MHz )                                |
 | 硬盘     | 建兴 CV1-8B512 (512 GB / 固态硬盘 )                          |
 | 显卡     | 英特尔 HD Graphics 620 (platform-id:0x59160000)              |
