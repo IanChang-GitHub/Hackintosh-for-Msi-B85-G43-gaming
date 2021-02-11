@@ -1,5 +1,5 @@
 # Hackintosh-Msi-B85-G43-gaming
-![GitHub release](https://img.shields.io/github/v/release/superng6/Hackintosh-Msi-B85-G43-gaming?style=flat-square)
+![GitHub release](https://img.shields.io/github/v/release/ianchang-github/Hackintosh-Msi-B85-G43-gaming)
 
 ## Computer Device
 
