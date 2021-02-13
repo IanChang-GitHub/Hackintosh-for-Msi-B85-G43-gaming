@@ -12,7 +12,7 @@
 | Display Card   | Radeon RX580 ARMOR 8G     |
 
 ## Disable CFG Lock
-Before intalling MacOS,you need to disable Cfg lock.
+Before intalling MacOS, you need to disable Cfg lock.
 If you don't do this step and use my package.
 It would be frozen when installing.
 
