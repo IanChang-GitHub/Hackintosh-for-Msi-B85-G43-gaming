@@ -18,5 +18,6 @@ It would be frozen when installing.
 
 ![image](https://github.com/IanChang-GitHub/Hackintosh-Msi-B85-G43-gaming/blob/master/Picture/B85-G43%20CFG.JPG)
 
--Select the Modified GRUB Shell on Opencore boot menu.
--Key "set_var 0x67 0x0" and press number.
+- Select the Modified GRUB Shell on Opencore boot menu.
+
+- Key "set_var 0x67 0x0" and press number.
