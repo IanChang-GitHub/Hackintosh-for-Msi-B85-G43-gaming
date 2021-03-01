@@ -1,7 +1,7 @@
 # Hackintosh-Msi-B85-G43-gaming
 ![GitHub release](https://img.shields.io/github/v/release/ianchang-github/Hackintosh-Msi-B85-G43-gaming)
 
-![image](https://github.com/IanChang-GitHub/Hackintosh-Msi-B85-G43-gaming/blob/master/Picture/About Mac.JPG)
+![image](https://github.com/IanChang-GitHub/Hackintosh-Msi-B85-G43-gaming/blob/master/Picture/About%20Mac.png)
 
 ## Computer Device
 
