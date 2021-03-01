@@ -9,7 +9,7 @@
 | Motherboard | Msi B85-G43 Gaming         |
 | Ram   |  Kingston DDR3 1600Hz 4G* 4    |
 | Disk  | Seagate BarraCuda 250G    |
-| Display Card   | Radeon RX580 ARMOR 8G     |
+| Display Card   | Msi Radeon RX580 ARMOR 8G     |
 
 ## Disable CFG Lock
 Before intalling MacOS, you need to disable Cfg lock.
