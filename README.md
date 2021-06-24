@@ -23,3 +23,10 @@ It would be frozen when installing.
 - Select the Modified GRUB Shell on Opencore boot menu.
 
 - Key "set_var 0x67 0x0" and press enter.
+
+## Issue unsolve
+1. Computer sleeping capability may turn off, it would wake up unsuccessfully
+
+## Update Log
+
+2021/06/24 Update MacOS to Big Sur 11.2.2 and Opencore to 0.7.0
