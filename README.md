@@ -1,7 +1,7 @@
 # Hackintosh-Msi-B85-G43-gaming
 ![GitHub release](https://img.shields.io/github/v/release/ianchang-github/Hackintosh-Msi-B85-G43-gaming)
 
-![image](https://github.com/IanChang-GitHub/Hackintosh-Msi-B85-G43-gaming/blob/master/Picture/Big Sur 11.2.2.png)
+![image](https://github.com/IanChang-GitHub/Hackintosh-Msi-B85-G43-gaming/blob/master/Picture/Big%20Sur%2011.2.2.png)
 
 ## Computer Device
 
