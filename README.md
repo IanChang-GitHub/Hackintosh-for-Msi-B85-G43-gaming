@@ -29,4 +29,4 @@ It would be frozen when installing.
 
 ## Update Log
 
-2021/06/24 Update MacOS to Big Sur 11.2.2 and Opencore to 0.7.0.
+2021/06/24 Update MacOS to Big Sur 11.2.2 and Opencore to 0.7.1.
