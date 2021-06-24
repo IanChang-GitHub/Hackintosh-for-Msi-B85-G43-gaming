@@ -25,7 +25,7 @@ It would be frozen when installing.
 - Key "set_var 0x67 0x0" and press enter.
 
 ## Issue unsolve
-1. Computer sleeping capability may turn off, it would wake up unsuccessfully
+1. Computer sleeping capability may be turned off, it would wake up unsuccessfully
 
 ## Update Log
 
