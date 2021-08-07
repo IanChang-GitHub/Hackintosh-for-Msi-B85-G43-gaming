@@ -22,7 +22,7 @@ It would be frozen when installing.
 
 - Select the Modified GRUB Shell on Opencore boot menu.
 
-- Key "set_var 0x67 0x0" and press enter.
+- Key "setup_var 0x67 0x0" and press enter.
 
 ## Issue unsolve
 1. Computer sleeping capability may be turned off, it would wake up unsuccessfully.
